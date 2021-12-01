@@ -1,1 +1,0 @@
-wed: node dist
